@@ -1,0 +1,26 @@
+import_match ou from_import_math_sqrt ou Pow (importação otimizada e escolher de 1 ou 2 para + )
+ Ceil  ( arredondamento para cima ex:uma nota 7.29 mas eu quero arrendondar para 7.50)
+ Floor ( arredondamento para baixo ex:uma nota 7.14 mas eu quero arrendondar para 7.00)
+ Trunc (truncar numeros, sem arredondar ex: uma nota ta 7.38 porem ele trunca e fica 7)
+ Pow   (potencia mesma forma que o ** )
+ sqrt  (calcular raiz quadrada)
+ factorial (calculo de fatorial)
+ sin (seno)
+ cos (cosseno)
+ tan (tangente)
+ radians (Converte o ângulo para radianos, pois as funções trigonométricas em math trabalham com radianos)
+ hipot (calcula o comprimento da hipotenusa [usa o teorema de pitágoras])
+import_random
+ random_randint Gera um número inteiro aleatório entre a e b inclusive
+ random_choice Escolhe um item aleatório de uma sequência podendo ser lista
+ random_shuffle  Embaralha a sequência modifica a lista original
+ random_random Gera um número de ponto flutuante aleatório entre 0 e 1.
+ random_uniform a, b Gera um número de ponto flutuante aleatório entre a e b.
+import_time
+ time Retorna o tempo desde a "época" 1º de janeiro de 1970.
+ sleep Pausa a execução por um determinado número de segundos.
+ localtime Retorna o tempo local como uma tupla.
+ strftime Converte a tupla de tempo em uma string formatada.
+ gmtime Retorna o tempo em formato UTC.
+ perf_counter Retorna o tempo de alta precisão para medir o tempo de execução.
+ monotonic Retorna um tempo que não é afetado por ajustes no relógio do sistema.
